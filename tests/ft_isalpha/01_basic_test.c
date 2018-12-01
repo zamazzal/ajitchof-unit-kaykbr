@@ -12,7 +12,7 @@
 
 #include "libunit.h"
 
-int		isalp_basic1(void)
+int		isalpha_basic1(void)
 {
 	int		c;
 
