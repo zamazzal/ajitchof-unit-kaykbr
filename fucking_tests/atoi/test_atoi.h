@@ -6,7 +6,7 @@
 /*   By: ishaimou <ilyass.sh@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 21:22:40 by ishaimou          #+#    #+#             */
-/*   Updated: 2018/12/01 22:11:10 by ishaimou         ###   ########.fr       */
+/*   Updated: 2018/12/01 22:55:14 by ishaimou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,6 +29,5 @@ int		atoi_basic13(void);
 int		atoi_basic14(void);
 int		atoi_basic15(void);
 int		atoi_basic16(void);
-void	print_endl(const char *s);
 
 #endif
