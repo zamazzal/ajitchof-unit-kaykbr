@@ -12,7 +12,7 @@
 
 #include "libunit.h"
 
-int		ialnum_basic1(void)
+int		isalnum_basic1(void)
 {
 	int		c;
 
