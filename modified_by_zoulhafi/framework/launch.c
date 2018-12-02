@@ -6,7 +6,7 @@
 /*   By: ozaazaa <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 21:02:53 by ozaazaa           #+#    #+#             */
-/*   Updated: 2018/12/02 00:10:41 by ozaazaa          ###   ########.fr       */
+/*   Updated: 2018/12/02 08:05:42 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -46,7 +46,7 @@ static void	parent(char *name, int *success)
 	printf("> %s : [%s]\n", name, get_result(status));
 }
 
-int	launch_test(t_unit_test **list)
+int	launch_tests(t_unit_test **list)
 {
 	int	success;
 	int	counter;

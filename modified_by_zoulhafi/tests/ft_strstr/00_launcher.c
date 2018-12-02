@@ -26,7 +26,7 @@ int		strstr_launcher(void)
 	load_test(&test, "NULL test 01", &strstr_null1);
 	load_test(&test, "NULL test 02", &strstr_null2);
 	load_test(&test, "NULL test 03", &strstr_null3);
-	ret = launch_tests(&list);
+	ret = launch_tests(&test);
 	clean_test(&test);
 	return (ret);
 }

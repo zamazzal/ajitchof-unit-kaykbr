@@ -1,26 +1,35 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   00_isalnum_launcher.c                              :+:      :+:    :+:   */
+/*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: ishaimou <ilyass.sh@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2018/12/01 21:31:07 by ishaimou          #+#    #+#             */
-/*   Updated: 2018/12/02 08:00:23 by zoulhafi         ###   ########.fr       */
+/*   Created: 2018/12/02 04:06:12 by ishaimou          #+#    #+#             */
+/*   Updated: 2018/12/02 07:52:29 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libunit.h"
+#include "header.h"
 
-int		isalnum_launcher(void)
+int		main(void)
 {
-	int				ret;
-	t_unit_test		*test;
-
-	test = NULL;
-	print_endl("ISALNUM:\n");
-	load_test(&test, "Basic test", &isalnum_basic1);
-	ret = launch_tests(&test);
-	clean_test(&test);
-	return (ret);
+	atoi_launcher();
+	isalnum_launcher();
+	isalpha_launcher();
+	isascii_launcher();
+	isdigit_launcher();
+	isprint_launcher();
+	strchr_launcher();
+	strdup_launcher();
+	strlen_launcher();
+	strncat_launcher();
+	strncmp_launcher();
+	strncpy_launcher();
+	strnstr_launcher();
+	strrchr_launcher();
+	strstr_launcher();
+	tolower_launcher();
+	toupper_launcher();
+	return (0);
 }

@@ -28,7 +28,7 @@ int		strncmp_launcher(void)
 	load_test(&test, "NULL test 01", &strncmp_null1);
 	load_test(&test, "NULL test 02", &strncmp_null2);
 	load_test(&test, "NULL test 03", &strncmp_null3);
-	ret = launch_tests(&list);
+	ret = launch_tests(&test);
 	clean_test(&test);
 	return (ret);
 }

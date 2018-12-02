@@ -6,13 +6,13 @@
 /*   By: ishaimou <ilyass.sh@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 20:51:39 by ishaimou          #+#    #+#             */
-/*   Updated: 2018/12/01 20:53:37 by ishaimou         ###   ########.fr       */
+/*   Updated: 2018/12/02 08:05:15 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libunit.h"
 
-void	ft_putendl(char const *s)
+void	print_endl(char const *s)
 {
 	int		i;
 

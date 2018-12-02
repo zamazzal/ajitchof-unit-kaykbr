@@ -6,12 +6,14 @@
 /*   By: ishaimou <ilyass.sh@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 23:00:09 by ishaimou          #+#    #+#             */
-/*   Updated: 2018/12/01 23:21:10 by ishaimou         ###   ########.fr       */
+/*   Updated: 2018/12/02 08:03:23 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef HEADER_H
 # define HEADER_H
+# include "libft.h"
+# include "libunit.h"
 
 int		atoi_basic1(void);
 int		atoi_basic2(void);
@@ -31,7 +33,7 @@ int		atoi_basic15(void);
 int		atoi_basic16(void);
 int		isalnum_basic1(void);
 int		isalpha_basic1(void);
-int		iascii_basic1(void);
+int		isascii_basic1(void);
 int		isdigit_basic1(void);
 int		isprint_basic1(void);
 int		strchr_basic1(void);
@@ -107,5 +109,27 @@ int		test_isalnum(int c);
 int		test_isascii(int c);
 int		test_isalpha(int c);
 int		test_isdigit(int c);
+char	*test_strncpy(char *dst, const char *src, size_t len);
+int		test_strncmp(const char *s1, const char *s2, size_t n);
+size_t	test_strlen(const char *str);
+int		toupper_launcher(void);
+int		tolower_launcher(void);
+int		strstr_launcher(void);
+int		strrchr_launcher(void);
+int		strnstr_launcher(void);
+int		strncpy_launcher(void);
+int		strncmp_launcher(void);
+int		strcat_launcher(void);
+int		strlen_launcher(void);
+int		strdup_launcher(void);
+int		strchr_launcher(void);
+int		strchr_launcher(void);
+int		isprint_launcher(void);
+int		isdigit_launcher(void);
+int		isascii_launcher(void);
+int		isalpha_launcher(void);
+int		isalnum_launcher(void);
+int		atoi_launcher(void);
+int		strncat_launcher(void);
 
 #endif

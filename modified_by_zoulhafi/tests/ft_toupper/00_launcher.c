@@ -22,7 +22,7 @@ int		toupper_launcher(void)
 	print_endl("TOUPPER:\n");
 	load_test(&test, "Basic test 01", &toupper_basic);
 	load_test(&test, "NULL test 01", &toupper_null);
-	ret = launch_tests(&list);
+	ret = launch_tests(&test);
 	clean_test(&test);
 	return (ret);
 }

@@ -6,19 +6,18 @@
 /*   By: ishaimou <ilyass.sh@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 22:38:05 by ishaimou          #+#    #+#             */
-/*   Updated: 2018/12/01 22:53:12 by ishaimou         ###   ########.fr       */
+/*   Updated: 2018/12/02 08:03:43 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libunit.h"
-#include "test_isdigit.h"
 
 int		isdigit_launcher(void)
 {
 	int			ret;
-	t_unit_list	*test;
+	t_unit_test	*test;
 
-	test = NUll;
+	test = NULL;
 	print_endl("ISDIGIT:\n");
 	load_test(&test, "Basic test", &isdigit_basic1);
 	ret = launch_tests(&test);

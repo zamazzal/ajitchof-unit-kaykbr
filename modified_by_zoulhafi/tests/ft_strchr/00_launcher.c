@@ -16,7 +16,7 @@
 int		strchr_launcher(void)
 {
 	int			ret;
-	t_unit_list	*test;
+	t_unit_test	*test;
 
 	test = NULL;
 	print_endl("STRCHR:\n");

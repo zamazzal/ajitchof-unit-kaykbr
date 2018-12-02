@@ -6,7 +6,7 @@
 /*   By: ishaimou <ilyass.sh@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 16:15:19 by ishaimou          #+#    #+#             */
-/*   Updated: 2018/12/01 22:56:04 by ishaimou         ###   ########.fr       */
+/*   Updated: 2018/12/02 06:49:18 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,8 @@
 # include <signal.h>
 # include <sys/wait.h>
 # include <stdio.h> /// cheat !!!!
+# include "libft.h"
+# include "header.h"
 
 typedef struct		s_unit_test
 {

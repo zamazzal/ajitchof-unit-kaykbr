@@ -26,7 +26,7 @@ int		strncat_launcher(void)
 	load_test(&test, "Basic test 04", &strncat_basic4);
 	load_test(&test, "Null test 01", &strlen_null);
 	load_test(&test, "Hard test 01", &strncat_hard);
-	ret = launch_tests(&list);
+	ret = launch_tests(&test);
 	clean_test(&test);
 	return (ret);
 }

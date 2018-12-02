@@ -24,7 +24,7 @@ int		strrchr_launcher(void)
 	load_test(&test, "Basic test 02", &strrchr_basic2);
 	load_test(&test, "Basic test 03", &strrchr_basic3);
 	load_test(&test, "Basic test 04", &strrchr_basic4);
-	ret = launch_tests(&list);
+	ret = launch_tests(&test);
 	clean_test(&test);
 	return (ret);
 }

@@ -36,7 +36,7 @@ int		atoi_launcher(void)
 	load_test(&test, "Basic test 14", &atoi_basic14);
 	load_test(&test, "Basic test 15", &atoi_basic15);
 	load_test(&test, "Basic test 16", &atoi_basic16);
-	ret = launch_tests(&list);
+	ret = launch_tests(&test);
 	clean_test(&test);
 	return (ret);
 }

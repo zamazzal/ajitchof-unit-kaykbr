@@ -6,13 +6,13 @@
 /*   By: zamazzal <zouhir.amazzal@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 20:11:23 by zamazzal          #+#    #+#             */
-/*   Updated: 2018/12/01 20:11:26 by zamazzal         ###   ########.fr       */
+/*   Updated: 2018/12/02 08:02:51 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libunit.h"
 
-int		iascii_basic1(void)
+int		isascii_basic1(void)
 {
 	int		c;
 

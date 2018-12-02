@@ -6,22 +6,21 @@
 /*   By: ishaimou <ilyass.sh@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 21:45:31 by ishaimou          #+#    #+#             */
-/*   Updated: 2018/12/01 22:03:15 by ishaimou         ###   ########.fr       */
+/*   Updated: 2018/12/02 08:02:10 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libunit.h"
-#include "test_isalpha.h"
 
 int		isalpha_launcher(void)
 {
 	int			ret;
-	t_unit_list	*list;
+	t_unit_test	*test;
 
-	list = NULL;
+	test = NULL;
 	print_endl("ISALPHA:\n");
 	load_test(&test, "Basic test", &isalpha_basic1);
 	ret = launch_tests(&test);
-	clear_test(&test);
+	clean_test(&test);
 	return (ret);
 }

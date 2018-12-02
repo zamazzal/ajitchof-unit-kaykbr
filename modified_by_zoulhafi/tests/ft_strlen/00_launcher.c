@@ -25,7 +25,7 @@ int		strlen_launcher(void)
 	load_test(&test, "Basic test 03", &strlen_basic3);
 	load_test(&test, "Null test 01", &strlen_null);
 	load_test(&test, "Big test 01", &strlen_big);
-	ret = launch_tests(&list);
+	ret = launch_tests(&test);
 	clean_test(&test);
 	return (ret);
 }

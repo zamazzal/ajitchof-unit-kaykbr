@@ -22,7 +22,7 @@ int		tolower_launcher(void)
 	print_endl("TOLOWER:\n");
 	load_test(&test, "Basic test 01", &tolower_basic);
 	load_test(&test, "Basic test 02", &tolower_null);
-	ret = launch_tests(&list);
+	ret = launch_tests(&test);
 	clean_test(&test);
 	return (ret);
 }

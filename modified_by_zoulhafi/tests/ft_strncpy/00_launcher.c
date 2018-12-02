@@ -25,7 +25,7 @@ int		strncpy_launcher(void)
 	load_test(&test, "Basic test 03", &strncpy_basic3);
 	load_test(&test, "Basic test 04", &strncpy_basic4);
 	load_test(&test, "NULL test 01", &strncpy_null);
-	ret = launch_tests(&list);
+	ret = launch_tests(&test);
 	clean_test(&test);
 	return (ret);
 }
