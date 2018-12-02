@@ -6,7 +6,7 @@
 /*   By: zamazzal <zouhir.amazzal@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 20:11:23 by zamazzal          #+#    #+#             */
-/*   Updated: 2018/12/01 21:12:10 by zamazzal         ###   ########.fr       */
+/*   Updated: 2018/12/02 17:54:04 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,14 @@
 
 int		strncmp_hard(void)
 {
-	if (ft_strncmp("abcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghij", "abcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghij", 71) != test_strncmp("abcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghij", "abcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghij", 71))
+	char	str[500];
+	char	str2[500];
+
+	test_strcpy(str, "abcdefghijabcdefghijabcdefghijabcdefghijabcdefg");
+	test_strcpy(str + test_strlen(str), "hijabcdefghijabcdefghij");
+	test_strcpy(str2, "abcdefghijabcdefghijabcdefghijabcdefghijabcdefghij");
+	test_strcpy(str2 + test_strlen(str), "abcdefghijabcdefghij");
+	if (ft_strncmp(str, str2, 71) != test_strncmp(str, str2, 71))
 		return (-1);
 	return (0);
 }

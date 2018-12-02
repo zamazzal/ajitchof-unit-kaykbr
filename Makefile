@@ -6,11 +6,11 @@
 #    By: zoulhafi <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/12/02 01:44:17 by zoulhafi          #+#    #+#              #
-#    Updated: 2018/12/02 16:31:46 by zamazzal         ###   ########.fr        #
+#    Updated: 2018/12/02 18:18:05 by zoulhafi         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-PATH_LIBFT = ./libft
+PATH_LIBFT = ../libft
 
 NAME = libunit.a
 

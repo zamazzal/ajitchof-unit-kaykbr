@@ -6,7 +6,7 @@
 /*   By: zamazzal <zouhir.amazzal@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 20:11:23 by zamazzal          #+#    #+#             */
-/*   Updated: 2018/12/01 20:52:58 by zamazzal         ###   ########.fr       */
+/*   Updated: 2018/12/02 17:26:35 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 int		strdup_basic2(void)
 {
-	if (test_strcmp(ft_strdup("Lorem ipsum"), test_strdup("Lorem ipsum")))
+	if (test_strcmp(ft_strdup("Lorem ipsum"), "Lorem ipsum"))
 		return (-1);
 	return (0);
 }

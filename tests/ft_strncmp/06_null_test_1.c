@@ -6,7 +6,7 @@
 /*   By: zamazzal <zouhir.amazzal@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 20:11:23 by zamazzal          #+#    #+#             */
-/*   Updated: 2018/12/01 21:13:07 by zamazzal         ###   ########.fr       */
+/*   Updated: 2018/12/02 17:56:50 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,8 @@
 
 int		strncmp_null1(void)
 {
-	if (ft_strncmp("", "asasfeqtrwdfjbcxaEWTERUG", 2) != test_strncmp("", "asasfeqtrwdfjbcxaEWTERUG", 2))
+	if (ft_strncmp("", "asasfeqtrwdfjbcxaEWTERUG", 2) !=
+			test_strncmp("", "asasfeqtrwdfjbcxaEWTERUG", 2))
 		return (-1);
 	return (0);
 }

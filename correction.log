@@ -1,0 +1,3977 @@
+ATOI:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+ISALNUM:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+ISALPHA:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+ISASCII:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+ISDIGIT:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+ISPRINT:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+STRCHR:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+STRDUP:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+STRLEN:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+STRNCAT:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+STRNCMP:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+STRNCPY:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+STRNSTR:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+STRRCHR:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+STRSTR:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+
+ successfull test 4/ total test 4 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+
+ successfull test 4/ total test 4 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+
+ successfull test 4/ total test 4 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+
+ successfull test 4/ total test 4 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+
+ successfull test 4/ total test 4 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+
+ successfull test 4/ total test 4 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+TOLOWER:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+
+ successfull test 4/ total test 4 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+
+ successfull test 4/ total test 4 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+TOUPPER:
+
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+
+ successfull test 4/ total test 4 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+
+ successfull test 2/ total test 2 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+
+ successfull test 4/ total test 4 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+
+ successfull test 2/ total test 2 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Basic test 05 : [[32mOK[0m]
+> Basic test 06 : [[32mOK[0m]
+> Basic test 07 : [[32mOK[0m]
+> Basic test 08 : [[32mOK[0m]
+> Basic test 09 : [[32mOK[0m]
+> Basic test 10 : [[32mOK[0m]
+> Basic test 11 : [[32mOK[0m]
+> Basic test 12 : [[32mOK[0m]
+> Basic test 13 : [[32mOK[0m]
+> Basic test 14 : [[32mOK[0m]
+> Basic test 15 : [[32mOK[0m]
+> Basic test 16 : [[32mOK[0m]
+
+ successfull test 16/ total test 16 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test : [[32mOK[0m]
+
+ successfull test 1/ total test 1 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Basic test 4 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 1 : [[32mOK[0m]
+> Basic test 2 : [[32mOK[0m]
+> Basic test 3 : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+> Null test : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Big test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Null test 01 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> Hard test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 8/ total test 8 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 5/ total test 5 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> Basic test 04 : [[32mOK[0m]
+
+ successfull test 4/ total test 4 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+> Basic test 03 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+> NULL test 02 : [[32mOK[0m]
+> NULL test 03 : [[32mOK[0m]
+
+ successfull test 6/ total test 6 tests checked
+> Basic test 01 : [[32mOK[0m]
+> Basic test 02 : [[32mOK[0m]
+
+ successfull test 2/ total test 2 tests checked
+> Basic test 01 : [[32mOK[0m]
+> NULL test 01 : [[32mOK[0m]
+
+ successfull test 2/ total test 2 tests checked

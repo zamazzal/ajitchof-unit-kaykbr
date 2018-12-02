@@ -6,7 +6,7 @@
 /*   By: ishaimou <ilyass.sh@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 01:26:14 by ishaimou          #+#    #+#             */
-/*   Updated: 2018/12/01 03:37:34 by ishaimou         ###   ########.fr       */
+/*   Updated: 2018/12/02 18:09:49 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,8 @@
 
 int		strlen_basic3(void)
 {
-	if (ft_strlen("TSTNE r2, \t#&00FF0000\n") != test_strlen("TSTNE r2, \t#&00FF0000\n"))
+	if (ft_strlen("TSTNE r2, \t#&00FF0000\n") !=
+			test_strlen("TSTNE r2, \t#&00FF0000\n"))
 		return (-1);
 	return (0);
 }

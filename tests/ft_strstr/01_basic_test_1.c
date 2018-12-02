@@ -6,7 +6,7 @@
 /*   By: ishaimou <ilyass.sh@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 02:50:36 by ishaimou          #+#    #+#             */
-/*   Updated: 2018/12/01 21:05:02 by zamazzal         ###   ########.fr       */
+/*   Updated: 2018/12/02 17:55:09 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,10 @@
 
 int		strstr_basic1(void)
 {
-	if (test_strcmp(ft_strstr("fuzzy wuzzy was a bear but wuzzy fuzzy was not a bear", "but"), test_strstr("fuzzy wuzzy was a bear but wuzzy fuzzy was not a bear", "but")))
+	char	str[256];
+
+	test_strcpy(str, "fuzzy wuzzy was a bear but wuzzy fuzzy was not a bear");
+	if (test_strcmp(ft_strstr(str, "but"), test_strstr(str, "but")))
 		return (-1);
 	return (0);
 }

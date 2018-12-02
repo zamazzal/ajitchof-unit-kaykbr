@@ -6,7 +6,7 @@
 /*   By: ishaimou <ilyass.sh@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 02:50:36 by ishaimou          #+#    #+#             */
-/*   Updated: 2018/12/01 21:05:18 by zamazzal         ###   ########.fr       */
+/*   Updated: 2018/12/02 17:00:27 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,10 @@
 
 int		strstr_basic3(void)
 {
-	if (ft_strstr("fuzzy wuzzy was a bear but wuzzy fuzzy was not a bear", "xxx") != NULL)
+	char	str[256];
+
+	test_strcpy(str, "fuzzy wuzzy was a bear but wuzzy fuzzy was not a bear");
+	if (ft_strstr(str, "xxx") != NULL)
 		return (-1);
 	return (0);
 }

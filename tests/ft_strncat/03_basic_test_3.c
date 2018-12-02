@@ -6,7 +6,7 @@
 /*   By: zamazzal <zouhir.amazzal@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 16:54:41 by zamazzal          #+#    #+#             */
-/*   Updated: 2018/12/02 07:55:55 by zoulhafi         ###   ########.fr       */
+/*   Updated: 2018/12/02 17:57:40 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,8 @@ int		strncat_basic3(void)
 	if (!(dest = (char *)malloc(sizeof(*dest) * 15)))
 		return (-1);
 	test_memset(dest, 'r', 6);
-	if (test_strcmp(ft_strncat(dest, "12345123", 0), test_strncat(dest, "12345123", 0)))
+	if (test_strcmp(ft_strncat(dest, "12345123", 0),
+				test_strncat(dest, "12345123", 0)))
 		return (-1);
 	return (0);
 }
