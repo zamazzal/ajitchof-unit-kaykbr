@@ -6,7 +6,7 @@
 /*   By: ishaimou <ilyass.sh@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 16:15:19 by ishaimou          #+#    #+#             */
-/*   Updated: 2018/12/02 13:24:27 by obelouch         ###   ########.fr       */
+/*   Updated: 2018/12/02 06:49:18 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,16 +17,16 @@
 # include <string.h>
 # include <signal.h>
 # include <sys/wait.h>
-# include <stdio.h>
-# include "../../libft/libft.h"
-# include "../tests/header.h"
+# include <stdio.h> /// cheat !!!!
+# include "libft.h"
+# include "header.h"
 
-typedef struct			s_unit_test
+typedef struct		s_unit_test
 {
 	char				*name;
 	int					(*test_fct)(void);
 	struct s_unit_test	*next;
-}						t_unit_test;
+}					t_unit_test;
 
 void	load_test(t_unit_test **test_list, char *name, int (*test)(void));
 void	clean_test(t_unit_test **test_list);

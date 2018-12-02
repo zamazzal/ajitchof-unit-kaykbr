@@ -6,14 +6,14 @@
 /*   By: ishaimou <ilyass.sh@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 23:00:09 by ishaimou          #+#    #+#             */
-/*   Updated: 2018/12/02 13:20:57 by obelouch         ###   ########.fr       */
+/*   Updated: 2018/12/02 08:03:23 by zoulhafi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef HEADER_H
 # define HEADER_H
-# include "../../libft/libft.h"
-# include "../framework/libunit.h"
+# include "libft.h"
+# include "libunit.h"
 
 int		atoi_basic1(void);
 int		atoi_basic2(void);

@@ -6,23 +6,11 @@
 /*   By: zamazzal <zouhir.amazzal@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 18:16:53 by zamazzal          #+#    #+#             */
-/*   Updated: 2018/12/02 13:32:34 by obelouch         ###   ########.fr       */
+/*   Updated: 2018/12/01 18:16:54 by zamazzal         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libunit.h"
-
-size_t	test_strlen(const char *str)
-{
-	size_t	i;
-
-	if (str == NULL)
-		return (0);
-	i = 0;
-	while (str[i] != '\0')
-		i++;
-	return (i);
-}
 
 char	*test_strdup(const char *s1)
 {
