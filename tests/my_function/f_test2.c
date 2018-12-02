@@ -78,16 +78,3 @@ char	*test_strnstr(const char *haystack, const char *needle, size_t len)
 	}
 	return (0);
 }
-
-char	*test_strrchr(const char *s, int c)
-{
-	size_t i;
-
-	i = 0;
-	if (ft_strchr(s, c) == NULL)
-		return (NULL);
-	i = ft_strlen(s);
-	while (s[i] != c)
-		i--;
-	return ((char*)s + i);
-}

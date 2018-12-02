@@ -6,12 +6,12 @@
 /*   By: ishaimou <ilyass.sh@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 21:02:53 by ishaimou          #+#    #+#             */
-/*   Updated: 2018/12/01 22:16:25 by ishaimou         ###   ########.fr       */
+/*   Updated: 2018/12/02 00:04:25 by ishaimou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libunit.h"
-#include "test_atoi.h"
+#include "header.h"
 
 int		atoi_launcher(void)
 {
